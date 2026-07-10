@@ -1,0 +1,9 @@
+{
+  "app": "devsecops-lab",
+  "debug": true,
+  "require_auth": false,
+  "allow_shell_diagnostics": true,
+  "database": {
+    "allow_raw_sql": false
+  }
+}
